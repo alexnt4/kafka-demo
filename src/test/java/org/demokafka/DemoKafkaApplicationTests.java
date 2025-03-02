@@ -1,4 +1,4 @@
-package org.example.demokafka;
+package org.demokafka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
